@@ -1,5 +1,7 @@
 # Data
-/data/
+# Ignora tutti i file raw ma permetti i file .dvc e .gitignore dentro data/raw/
+data/raw/*
+!data/raw/*.dvc
 
 # Mac OS-specific storage files
 .DS_Store
