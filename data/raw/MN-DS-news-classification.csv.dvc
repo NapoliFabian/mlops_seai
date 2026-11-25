@@ -1,0 +1,5 @@
+outs:
+- md5: cffbf48aeb7de4af2d4c615a0cdb4667
+  size: 47598602
+  hash: md5
+  path: MN-DS-news-classification.csv
